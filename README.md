@@ -22,10 +22,12 @@ Este projeto contém os exercícios da Lista 1 do curso de programação. Siga o
 
 2. **Criar o projeto e acessar a pasta**
 
-mkdir code-course-exercise-list-1
-cd code-course-exercise-list-1
+   ```bash
+   mkdir code-course-exercise-list-1
+   cd code-course-exercise-list-1
 
 3. **Instalar o prompt-sync**
 
-npm init -y
-npm install prompt-sync
+   ```bash
+   npm init -y
+   npm install prompt-sync
