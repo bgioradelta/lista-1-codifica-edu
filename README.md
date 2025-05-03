@@ -3,7 +3,8 @@ Lista 1 dos exercícios do curso Codifica Edu / +praTi
 
 # 📘 Instruções para configurar o ambiente
 
-Este projeto contém os exercícios da Lista 1 do curso de programação. Siga os passos abaixo para configurar seu ambiente e rodar arquivos `.js` no terminal com entrada do usuário.
+Este projeto contém os exercícios da Lista 1 do curso de programação da Codifica Edu / +praTi. 
+Siga os passos abaixo para configurar seu ambiente e rodar arquivos `.js` no terminal com entrada do usuário.
 
 ---
 
