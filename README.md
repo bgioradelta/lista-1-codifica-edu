@@ -12,7 +12,7 @@ Você precisa ter o **Node.js** instalado para rodar arquivos `.js` no terminal.
 node -v
 npm -v
 
-**## ✅ 2. Criar o projeto/pasta de exercícios**
+## ✅ 2. Criar o projeto/pasta de exercícios
 
 mkdir code-course-exercise-list-1
 cd code-course-exercise-list-1
