@@ -21,10 +21,10 @@ Siga os passos abaixo para configurar seu ambiente e rodar arquivos `.js` no ter
    node -v
    npm -v
 
-2. **Criar o projeto e acessar a pasta**
+2. **Clonar esse repositório, criar o projeto e acessar a pasta**
 
    ```bash
-   mkdir code-course-exercise-list-1
+   git clone https://github.com/bgioradelta/lista-1-codifica-edu
    cd code-course-exercise-list-1
 
 3. **Instalar o prompt-sync**
