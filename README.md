@@ -35,7 +35,6 @@ Siga os passos abaixo para configurar seu ambiente e rodar arquivos `.js` no ter
    npm init -y
    npm install prompt-sync
 
-
 ## ▶️ Como executar os exercícios
 
 Para executar qualquer exercício, use o comando:
