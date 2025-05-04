@@ -34,3 +34,12 @@ Siga os passos abaixo para configurar seu ambiente e rodar arquivos `.js` no ter
    ```bash
    npm init -y
    npm install prompt-sync
+
+
+## ▶️ Como executar os exercícios
+
+Para executar qualquer exercício, use o comando:
+
+```bash
+node nome_do_arquivo.js
+```
