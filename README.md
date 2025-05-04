@@ -29,6 +29,8 @@ Siga os passos abaixo para configurar seu ambiente e rodar arquivos `.js` no ter
 
 3. **Instalar o prompt-sync**
 
+   É necessário rodar as seguintes linhas de código para garantir que as dependências sejam carregadas:
+
    ```bash
    npm init -y
    npm install prompt-sync
